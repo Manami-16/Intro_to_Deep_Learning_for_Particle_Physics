@@ -41,6 +41,6 @@ If you need access to GPU, please run it through Google CoLab with GPU.
 
 # Credits
 This project is an extension of Kyungmin Park's (Carnegie Mellon University) work https://github.com/kyungminparkdrums/EGamma.git. 
-Some tastes were added by Manami Kanemura (Northeastern University), and the entire project was directed by Michael Andrew (Carnegie Mellon University) and Professor Manfred Paulini (Carnegie Mellon University). 
+Some tastes were added by Manami Kanemura (Northeastern University), and the entire project was directed by Dr. Michael Andrew (Carnegie Mellon University) and Professor Manfred Paulini (Carnegie Mellon University). 
 
 
